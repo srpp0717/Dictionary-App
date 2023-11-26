@@ -1,0 +1,112 @@
+[
+  {
+    "english": "After",
+    "thai": "หลังจาก",
+    "type": "Preposition"
+  },
+  {
+    "english": "Ant",
+    "thai": "มด",
+    "type": "Noun"
+  },
+  {
+    "english": "Apple",
+    "thai": "แอปเปิ้ล",
+    "type": "Noun"
+  },
+  {
+    "english": "Book",
+    "thai": "หนังสือ",
+    "type": "Noun"
+  },
+  {
+    "english": "Cane",
+    "thai": "ไม้ไผ่",
+    "type": "Noun"
+  },
+  {
+    "english": "Cat",
+    "thai": "แมว",
+    "type": "Noun"
+  },
+  {
+    "english": "Dangerous",
+    "thai": "อันตราย",
+    "type": "Adjective"
+  },
+  {
+    "english": "Elephant",
+    "thai": "ช้าง",
+    "type": "Noun"
+  },
+  {
+    "english": "Fast",
+    "thai": "รวดเร็ว",
+    "type": "Adjective"
+  },
+  {
+    "english": "Global",
+    "thai": "ทั่วโลก",
+    "type": "Adjective"
+  },
+  {
+    "english": "Green",
+    "thai": "สีเขียว",
+    "type": "Adjective"
+  },
+  {
+    "english": "Outside",
+    "thai": "ข้างนอก",
+    "type": "Preposition"
+  },
+  {
+    "english": "Pen",
+    "thai": "ปากกา",
+    "type": "Noun"
+  },
+  {
+    "english": "Play",
+    "thai": "การเล่น, การละเล่น",
+    "type": "Noun"
+  },
+  {
+    "english": "Quickly",
+    "thai": "โดยเร็ว, โดยทันที",
+    "type": "Adverb"
+  },
+  {
+    "english": "School",
+    "thai": "โรงเรียน",
+    "type": "Noun"
+  },
+  {
+    "english": "Small",
+    "thai": "เล็ก, น้อย",
+    "type": "Adjective"
+  },
+  {
+    "english": "Some",
+    "thai": "บางส่วน",
+    "type": "Pronoun"
+  },
+  {
+    "english": "They",
+    "thai": "พวกเขา",
+    "type": "Pronoun"
+  },
+  {
+    "english": "Until",
+    "thai": "จนกระทั่ง",
+    "type": "Preposition"
+  },
+  {
+    "english": "Walk",
+    "thai": "เดิน",
+    "type": "Verb"
+  },
+  {
+    "english": "Zebra",
+    "thai": "ม้าลาย",
+    "type": "Noun"
+  }
+]
